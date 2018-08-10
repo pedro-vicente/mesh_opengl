@@ -21,6 +21,10 @@ W: shows/hides wireframe
 I: shows/hides text IDs
 Right arrow: shows element by element and increases each element
 
+![alt text](https://user-images.githubusercontent.com/6119070/43976739-b7482ba8-9caf-11e8-812c-04e8464cf3f2.png)
+
+
+
 
 
 
